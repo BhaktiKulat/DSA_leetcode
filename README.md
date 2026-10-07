@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
