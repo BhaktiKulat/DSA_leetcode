@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -79,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
