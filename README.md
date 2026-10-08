@@ -78,8 +78,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0344-reverse-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
