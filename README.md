@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0912-sort-an-array](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
