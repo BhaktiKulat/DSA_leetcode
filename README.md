@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0912-sort-an-array](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0844-backspace-string-compare) |
@@ -110,9 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
