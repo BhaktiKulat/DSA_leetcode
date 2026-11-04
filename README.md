@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0912-sort-an-array](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0912-sort-an-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/0001-two-sum) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/BhaktiKulat/DSA_leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
